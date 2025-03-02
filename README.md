@@ -23,7 +23,7 @@ Key features:
 ### Installation Steps
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/GoodsSortingMatch3.git
+   git clone https://github.com/hamzaoglu29/GoodsSorting.git
    ```
 2. Open the project in Unity:
    - Launch Unity Hub
@@ -94,10 +94,6 @@ To add new item types:
 - If the grid appears incomplete, check the grid dimensions in the inspector
 - For performance issues, reduce the number of visual effects
 - If matching doesn't work correctly, verify the section configuration
-
-## Credits
-- Game design and development: [Your Name]
-- Art assets: [Asset Credits]
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details. 
