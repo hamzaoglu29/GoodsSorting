@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9904af52195ab8c4b8a80d81386ed59a, type: 3}
+  m_Name: Level_3
+  m_EditorClassIdentifier: 
+  LevelNumber: 3
+  LevelName: Section Challenge
+  SortingGoals:
+  - ItemType: 0
+    TargetCount: 5
+  - ItemType: 1
+    TargetCount: 5
+  - ItemType: 2
+    TargetCount: 5
+  - ItemType: 3
+    TargetCount: 5
+  MovesLimit: 0
+  TimeLimit: 120
+  GridWidth: 9
+  GridHeight: 3
+  NumberOfSections: 3
+  _gridLayout: 03000000ffffffff04000000ffffffff01000000ffffffff010000000500000000000000040000000200000000000000040000000500000003000000ffffffff0400000003000000000000000200000001000000050000000300000001000000020000000500000002000000
+  _backGridLayout: ffffffff05000000ffffffffffffffff00000000ffffffff0400000005000000ffffffff050000000000000005000000040000000500000001000000ffffffff0300000002000000ffffffff0400000001000000040000000000000003000000ffffffff0400000002000000
+  _disabledSections: 
+  EnableRandomMatchPower: 1
+  RandomMatchUses: 1
+  EnableShufflePower: 1
+  ShuffleUses: 1
+  BlockedCells: []
+  ClearAllItemsGoal: 1

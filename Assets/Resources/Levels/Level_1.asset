@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9904af52195ab8c4b8a80d81386ed59a, type: 3}
+  m_Name: Level_1
+  m_EditorClassIdentifier: 
+  LevelNumber: 1
+  LevelName: Sorting Basics
+  SortingGoals:
+  - ItemType: 0
+    TargetCount: 5
+  - ItemType: 1
+    TargetCount: 5
+  MovesLimit: 0
+  TimeLimit: 60
+  GridWidth: 3
+  GridHeight: 3
+  NumberOfSections: 1
+  _gridLayout: ffffffffffffffffffffffff010000000000000001000000000000000100000000000000
+  _backGridLayout: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+  _disabledSections: 
+  EnableRandomMatchPower: 1
+  RandomMatchUses: 1
+  EnableShufflePower: 1
+  ShuffleUses: 1
+  BlockedCells: []
+  ClearAllItemsGoal: 1
